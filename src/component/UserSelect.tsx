@@ -50,7 +50,7 @@ const UserSelect: React.FC<UserSelectProps> = ({ defaultValue, isMulti = false, 
           borderBottom: '1px solid #ccc',
           boxShadow: 'none',
           '&:hover': {
-            borderBottom: '2px solid blue',
+            borderBottom: '2px solid #3C006B',
           
           },
         }),
