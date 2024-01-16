@@ -17,10 +17,10 @@ Follow these steps to get the project up and running on your local machine:
    ```
    git clone https://github.com/highonranking/zepto-FE1-assignment.git
    ```
-   ``
-   cd frontend
-
    ```
+   cd frontend
+   ```
+   
    ```
    npm install
    ```
