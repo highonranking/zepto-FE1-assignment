@@ -14,9 +14,10 @@ Follow these steps to get the project up and running on your local machine:
 
  Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/highonranking/zepto-FE1-assignment.git
    ```
+   ``
    cd frontend
 
    ```
