@@ -38,6 +38,6 @@ Visit the live demo https://zepto-fe-1-assignment-abhinav.vercel.app/
 ## Contact
 ### Email: abhinavdixit2306@gmail.com 
 ### Resume: https://drive.google.com/file/d/1qajK3jJaZJBD5mJQ0pR12creDj-CopnD/view?usp=sharing
-### inkedIn: https://www.linkedin.com/in/highonranking/
+### LinkedIn: https://www.linkedin.com/in/highonranking/
 ### Leetcode: https://leetcode.com/highonranking/
 
